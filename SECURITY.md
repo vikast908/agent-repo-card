@@ -14,7 +14,7 @@ The skills are **read-oriented reviewers** (`allowed-tools: Read, Grep, Glob, Ba
 If you find a security issue — e.g. an install script flaw, or a skill that could be coaxed into a destructive or data-exfiltrating action — please report it **privately**:
 
 - Open a [GitHub private security advisory](https://docs.github.com/en/code-security/security-advisories), or
-- Email **[INSERT SECURITY CONTACT]**.
+- Email **vikast908@gmail.com**.
 
 Please do **not** open a public issue for a security report. We'll acknowledge within a few days and aim to address confirmed issues promptly, crediting you unless you prefer otherwise.
 
