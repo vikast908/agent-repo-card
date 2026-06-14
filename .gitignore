@@ -1,0 +1,21 @@
+# Review output written by the skills
+agent-review/
+
+# Local Claude Code state and skills installed into this repo by install.sh/.ps1
+.claude/
+
+# Secrets / env (none should exist here, ignored for safety)
+.env
+.env.*
+!.env.example
+
+# Logs and dependency/build dirs (not used today; ignored to keep the repo clean)
+*.log
+node_modules/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
